@@ -1,0 +1,5 @@
+initialize the 'package main' from github --> 'go mod init'
+    - this helps with the issue of 'package main' in main.go flashing red
+
+to use packages from other github accounts --> 'go get github.com/(enter the path here)
+    - this usually is used in imports
